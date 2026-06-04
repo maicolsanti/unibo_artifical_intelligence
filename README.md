@@ -23,7 +23,7 @@ Per poter eseguire correttamente il codice del notebook e scaricare i file del d
 
 1. **Scarica l'archivio:** Collegati alla pagina ufficiale dell'**Unsplash Dataset** (versione *Lite*) o cliccare sul seguente [link](https://unsplash.com/data/lite/latest).
 2. **Estrai i file:** Estrai l'archivio ZIP sul tuo computer.
-4. **Posiziona i file nel progetto:** Copia e incolla i file `.csv000` all'interno della **cartella assets di questo repository**.
+4. **Posiziona i file nel progetto:** Copia e incolla il file `photos.csv000` all'interno della **cartella assets di questo repository**.
 
 ## Requisiti e Installazione
 
